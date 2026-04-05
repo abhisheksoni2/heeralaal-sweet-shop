@@ -37,6 +37,7 @@ function Footer({ shop }) {
       <div className="footer-bottom">
         <span>&copy; {new Date().getFullYear()} {shop.name}</span>
         <span>Made with ♥ in Mirzapur</span>
+        <span>created by SoniJi</span>
       </div>
     </footer>
   );
