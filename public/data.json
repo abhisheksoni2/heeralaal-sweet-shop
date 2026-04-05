@@ -1,0 +1,216 @@
+{
+  "shop": {
+    "name": "Shree Hiralal And Sons Misthan Bhandar",
+    "tagline": "Mithai | Bakery | Cake | Desserts | Ice Cream",
+    "phone": "917275615550",
+    "address": "Imambara Tiraha, Opposite Water Tank, Mirzapur"
+  },
+  "categories": [
+    "All",
+    "Namkeen",
+    "Snacks",
+    "Cakes",
+    "Pastries",
+    "Sides"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Green Peas",
+      "description": "Safal hara mater",
+      "quantity": "250 g",
+      "category": "Namkeen",
+      "image": "/images/green-peas.avif"
+    },
+    {
+      "id": 2,
+      "name": "Cookies Biscuit",
+      "description": "Namkeen and sweet biscuit.",
+      "quantity": "250 g",
+      "category": "Namkeen",
+      "image": "/images/biscuit.avif"
+    },
+    {
+      "id": 3,
+      "name": "Aloo Chips",
+      "category": "Snacks",
+      "image": "/images/aloo-chips.avif"
+    },
+    {
+      "id": 4,
+      "name": "Masala Fried Kaju",
+      "quantity": "250 g",
+      "category": "Snacks",
+      "image": "/images/fried-kaju.avif"
+    },
+    {
+      "id": 5,
+      "name": "Eggless Black Forest Cake",
+      "category": "Cakes",
+      "image": "/images/black-forest-cake.avif"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate cake",
+      "category": "Cakes",
+      "image": "/images/black-forest-cake.avif"
+    },
+    {
+      "id": 7,
+      "name": "Pineapple Cake",
+      "category": "Cakes",
+      "image": "/images/pineapple-cake.avif"
+    },
+    {
+      "id": 8,
+      "name": "Eggless Pineapple cake",
+      "category": "Cakes",
+      "image": "/images/pineapple-cake.avif"
+    },
+    {
+      "id": 9,
+      "name": "Eggless Butterscotch Cake",
+      "category": "Cakes",
+      "image": "/images/eggless-butterscotch.avif"
+    },
+    {
+      "id": 10,
+      "name": "Strawberry Cake",
+      "category": "Cakes",
+      "image": "/images/strawberry.avif"
+    },
+    {
+      "id": 11,
+      "name": "Truffle Cake",
+      "category": "Cakes",
+      "image": "/images/truffle.webp"
+    },
+    {
+      "id": 12,
+      "name": "White Forest Cake",
+      "description": "Sprinkling white chocolate. Flavour like milkybar",
+      "category": "Cakes",
+      "image": "/images/whiteforest.avif"
+    },
+    {
+      "id": 13,
+      "name": "Blueberry Cake",
+      "category": "Cakes",
+      "image": "/images/blueberry.avif"
+    },
+    {
+      "id": 14,
+      "name": "Tutti Fruity Cake",
+      "category": "Cakes",
+      "image": "/images/tutti-fruity.avif"
+    },
+    {
+      "id": 15,
+      "name": "Vanilla Cake",
+      "category": "Cakes",
+      "image": "/images/vanila.avif"
+    },
+    {
+      "id": 16,
+      "name": "Pineapple Cake",
+      "quantity": "1 kg",
+      "description": "Veg preparation",
+      "category": "Cakes",
+      "image": "/images/pineapple-cake.avif"
+    },
+    {
+      "id": 17,
+      "name": "Black Forest Cake",
+      "quantity": "1 kg",
+      "description": "Eggless",
+      "category": "Cakes",
+      "image": "/images/black-forest-cake.avif"
+    },
+    {
+      "id": 18,
+      "name": "KitKat Cake",
+      "quantity": "500 g",
+      "description": "Best seller",
+      "category": "Cakes",
+      "image": "/images/kitkat.avif"
+    },
+    {
+      "id": 19,
+      "name": "Jelly Mini Cake",
+      "quantity": "330 g",
+      "description": "Eggless cake",
+      "category": "Cakes",
+      "image": "/images/jelly-mini.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Mini Pastries",
+      "category": "Pastries",
+      "image": "/images/pineapple-pastry.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Pineapple Pastry [Mini]",
+      "category": "Pastries",
+      "image": "/images/pineapple-pastry.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "Black Forest Pastry [Mini]",
+      "category": "Pastries",
+      "image": "/images/black-forest-cake.avif"
+    },
+    {
+      "id": 23,
+      "name": "Black Forest Pastry",
+      "category": "Pastries",
+      "image": "/images/black-forest-cake.avif"
+    },
+    {
+      "id": 24,
+      "name": "Pineapple Pastry",
+      "category": "Pastries",
+      "image": "/images/pineapple-pastry.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Strawberry Pastry",
+      "description": "Veg preparation",
+      "category": "Pastries",
+      "image": "/images/strawberry.avif"
+    },
+    {
+      "id": 26,
+      "name": "White Forest Pastry",
+      "category": "Pastries",
+      "image": "/images/whiteforest.avif"
+    },
+    {
+      "id": 27,
+      "name": "Butterscotch Pastry",
+      "description": "Veg preparation",
+      "category": "Pastries",
+      "image": "/images/eggless-butterscotch.avif"
+    },
+    {
+      "id": 28,
+      "name": "Tutti Frutti Pastry",
+      "category": "Pastries",
+      "image": "/images/tutti-fruity.avif"
+    },
+    {
+      "id": 29,
+      "name": "Cup Cake",
+      "description": "Best seller",
+      "category": "Pastries",
+      "image": "/images/pineapple-pastry.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "Paneer",
+      "quantity": "250 g",
+      "category": "Sides",
+      "image": "/images/paneer.jpg"
+    }
+  ]
+}
